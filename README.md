@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Hi, I'm Divya"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Divya5-11-04">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C9A7&center=true&vCenter=true&width=700&lines=Engineer+who+codes+and+builds+hardware;Computer+vision+that+replaced+a+6-person+manual+process;Voice+AI+%7C+GenAI+%7C+Robotics+%7C+Full+Stack;Open+to+internships+and+entry-level+roles" alt="Typing intro"/>
 </a>
 
@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-ddivya.officially@gmail.com-00C9A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddivya.officially@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Divya5-11-04.github.io/portfolio)
 
 </div>
 
@@ -200,10 +200,10 @@ ROS2, Gazebo, Python, C++ with a custom URDF.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divya5-11-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya5-11-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divya5-11-04&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
 
