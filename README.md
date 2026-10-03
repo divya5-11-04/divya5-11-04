@@ -9,8 +9,8 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-ddivya.officially@gmail.com-00C9A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddivya.officially@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Divya5-11-04.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-ji4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divya5-11-04.github.io/portfolio/)
 
 </div>
 
@@ -212,8 +212,8 @@ ROS2, Gazebo, Python, C++ with a custom URDF.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divya5-11-04/Divya5-11-04/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Divya5-11-04/Divya5-11-04/output/github-snake.svg"/>
 </picture>
 
 ### 🤝 Hiring or building something interesting? Let's talk.
